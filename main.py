@@ -1,4 +1,3 @@
-import requests
 from math import *
 from aiogram.types import Message
 from aiogram.bot import Bot
